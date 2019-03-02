@@ -1,6 +1,8 @@
 {
   "name": "MOMApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "89e4e062"
 }
